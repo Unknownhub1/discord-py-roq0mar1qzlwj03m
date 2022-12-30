@@ -3,7 +3,7 @@ import requests
 import discord
 import time
 import asyncio
-token = "MTA1ODI5MTcyMjY2MjE5OTM4Nw.GxffC-.hsb7t-abKeeXeZIGyCm972UlTwTMPEwWHQx8R4" #봇 토큰번호
+token = "[TOKEN]" #봇 토큰번호
 intents = discord.Intents.all()
 intents.members = True
 client = discord.Client(intents=intents)
