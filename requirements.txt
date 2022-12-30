@@ -7,4 +7,5 @@ idna==3.3
 multidict==6.0.2
 python-dotenv==0.20.0
 typing_extensions==4.3.0
-pip install -r requirements.txt
+requests==2.25.0
+requests-toolbelt==0.9.1
